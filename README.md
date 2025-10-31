@@ -5,6 +5,8 @@
 The original dataset included duplicated and misformatted class attributes.  
 This project provides a cleaned version ready for text analysis or sentiment modeling.
 
+Cleaned dataset: [(https://www.kaggle.com/datasets/nurhayatylmaz/cleaned-amazon-commerce-reviews-dataset)]
+
 ## 📂 Contents
 - **data/** → Cleaned dataset (CSV)
 - **notebooks/** → Kaggle Notebook used for preprocessing
@@ -12,7 +14,6 @@ This project provides a cleaned version ready for text analysis or sentiment mod
 
 ## 🧠 Source
 Original dataset: [[Amazon Commerce Reviews on Kaggle](https://www.kaggle.com/) ](https://archive.ics.uci.edu/dataset/215/amazon+commerce+reviews+set)] 
-Cleaned dataset: [(https://www.kaggle.com/datasets/nurhayatylmaz/cleaned-amazon-commerce-reviews-dataset)]
 
 ## 🪪 License
 CC0: Public Domain
